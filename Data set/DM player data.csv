@@ -1,0 +1,33 @@
+Match_id,Batting_position,Venue_City,Ground,Pitch,Opposite Team,Weather,Avg in last five matches,Sixes in last five matches,Fours in last five matches,Score in last five matches,Score in last five matches
+ODI # 4286,Right Hand,Johannesburg,Edgbaston,Grass, South Africa,Clear,Sixty point four,seven,thirty one,302,High Score
+ODI # 4287,Right Hand,Centurion,SuperSort Park,Grass,vSouth Africa,Clear,sixty five point four ,seven,thirty one,328,High Score
+ODI # 4299,Right Hand,Cardiff,Sophia Gardens,Dry,England,Sunny ,sixty nine point six,five,thirty five,348,High Score
+ODI # 4300,Right Hand,Lords,Lords Cricket Ground,Grass,England,Overcast,Ninty point six,five,fourty seven,453,High Score
+ODI # 4303,Right Hand,Birmingham,Edgbaston,Hard,England,Sunny ,One hundred seven point four,five,fifty two,537,High Score
+ODI # 4379,Right Hand,Grass,Gaddafi Stadium,Grass, Australia,Clear,Ninty one point five,two,fouty three,456,High Score
+ODI # 4380,Right Hand,Lahore,Gaddafi Stadium,Grass, Australia,Clear,Eighty,two,thirty three,400,High Score
+ODI # 4382,Right Hand,Lahore,Gaddafi Stadium,Dry, Australia,Overcast,Seventy two,two,thirty two,360,High Score
+ODI # 4401,Right Hand,Multan,Multan Cricket Stadium,Grass, West Indies,Sunny ,Sixty two poit four,two,twenty seven,312,High Score
+ODI # 4405,Right Hand,Multan,Multan Cricket Stadium,Hard, West Indies,Clear,Sixty,four,twenty five,300,Medium Score
+ODI # 4407,Right Hand,Multan,Multan Cricket Stadium,Dry, West Indies,Overcast ,Fifty seven point five,four,twenty five,289,Medium Score
+ODI # 4448,Right Hand,Rotterdam,Hazelaarweg,Grass,Neatherlands,Sunny ,Seventy three point four,five,thirty three,367,High Score
+ODI # 4452,Right Hand,Rotterdam,Hazelaarweg,Grass,Neatherlands,Clear,Fifty nine point five,four,twenty eight,297,Medium Score
+ODI # 4455,Right Hand,Rotterdam,Hazelaarweg,Grass,Neatherlands,Overcast,Fifty seven point eight ,five,twenty four,289,Medium Score
+ODI # 4500,Right Hand,Karachi,National Stadium,Dry,New Zealand ,Sunny ,Fifty two point six,four,twenty two,263,Medium Score
+ODI # 4502,Right Hand,Karachi,National Stadium,Grass,New Zealand ,Clear,Fifty point two,four,twenty,251,Medium Score
+ODI # 4404,Right Hand,Karachi,National Stadium,Grass,New Zealand ,Overcast ,Fifty five point eight,three,twenty two,279,Medium Score
+ODI # 4569,Right Hand,Rawalpindi,Rawalpindi  Stadium,Grass,New Zealand ,Sunny ,Fifty five point eight,three,twenty one,276,Medium Score
+ODI # 4571,Right Hand,Rawalpindi,Rawalpindi  Stadium,Grass,New Zealand ,Clear,Fourty Five point Four,two,eighteen,227,Medium Score
+ODI # 4573,Right Hand,Karachi,National Stadium,Grass,New Zealand ,Overcast ,Fourty three,one,ninteen,215,Medium Score
+ODI # 4574,Right Hand,Karachi,National Stadium,Dry,New Zealand ,Sunny ,Fourty four point two,one,twenty,221,Medium Score
+ODI # 4575,Right Hand,Karachi,National Stadium,Grass,New Zealand ,Clear,Fifty three,five,twenty four,265,Medium Score
+ODI # 4625,Right Hand,Hambantota,Mahinda Rajapaksa,Grass,Afghanistan,Overcast,Fifty two point six,five,twenty four,264,Medium Score
+ODI # 4626,Right Hand,Hambantota,Mahinda Rajapaksa,Grass,Afghanistan,Sunny ,Fifty six point two,five,twenty five,281,Medium Score
+ODI # 4627,Right Hand,Colombo(RPS),R.Premadasa Stadium,Grass,Afghanistan,Clear,Fourty seven point four,five,twenty one,238,Medium Score
+ODI # 4628,Right Hand,Multan,Multan Cricket Stadium,Dry,v Nepal,Overcast,Fourty one point four,four,twenty,207,Medium Score
+ODI # 4630,Right Hand,Pallekele,Pallekele  Stadium,Grass,v India,Rainy,Twelve point two,four,six,61,Low Score
+ODI # 4634,Right Hand,Lahore,Gaddafi Stadium,Grass,v Bangladesh,Overcast ,Fourteen point two,zero,seven,71,Low Score
+ODI # 4639,Right Hand,Colombo(RPS),R.Premadasa Stadium,Grass,v India,Sunny ,Twenty point two ,zero,thirteen,104,Low Score
+ODI # 4644,Right Hand,Colombo(RPS),R.Premadasa Stadium,Grass,v Sri Lanka,Clear,Twenty two point four,zero,fourteen,112,Low Score
+ODI # 4659,Right Hand,Hyderabad,Rajiv Gandhi Stadium,Grass,v Netherlands,Overcast ,Thirty one point four,zero,fifteen,157,Medium Score
+ODI # 4665,Right Hand,Hyderabad,Rajiv Gandhi Stadium,Grass,v Sri Lanka,Sunny ,Fourty point four,one,ninteen,202,Medium Score
